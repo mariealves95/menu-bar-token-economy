@@ -38,3 +38,4 @@ Notes and usage details for menu-bar-token-economy.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
