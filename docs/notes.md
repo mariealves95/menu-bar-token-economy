@@ -44,3 +44,4 @@ Notes and usage details for menu-bar-token-economy.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
