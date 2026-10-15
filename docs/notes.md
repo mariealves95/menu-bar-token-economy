@@ -54,3 +54,4 @@ Notes and usage details for menu-bar-token-economy.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- link the usage section
